@@ -52,10 +52,7 @@ public class MainActivity extends Activity {
 				Toast.makeText(getBaseContext(), "Try again!" , Toast.LENGTH_SHORT).show();
 				
 			}
-		
-		
-			
-		
+	
 			}
 		}
 	;
